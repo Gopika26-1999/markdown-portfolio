@@ -1,1 +1,1 @@
-[gopika] {https://github.com/Gopika26-1999/intro-html}
+[gopika] (https://github.com/Gopika26-1999/intro-html)
